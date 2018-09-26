@@ -14,3 +14,9 @@ bannerText: >
 * One
 * Two
 * Three
+
+{{<image
+  src="bikers.jpg"
+  alt="Cyclists riding on a sidepath"
+  caption="Cyclists in Urbana."
+  position="full">}}
