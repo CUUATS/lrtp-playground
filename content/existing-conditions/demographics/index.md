@@ -27,3 +27,9 @@ bannerText: >
   title="Survey Results"
   description="Results for employees over the age of 40"
   source="Employee satisfaction survey, March 2017">}}
+
+{{<bar-chart
+  url="table3-6.csv"
+  columns="1,2,4"
+  rows="-9"
+  title="House Size">}}
