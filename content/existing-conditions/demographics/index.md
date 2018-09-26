@@ -20,3 +20,10 @@ bannerText: >
   alt="Cyclists riding on a sidepath"
   caption="Cyclists in Urbana."
   position="full">}}
+
+{{<table
+  url="table3-6.csv"
+  footer="1"
+  title="Survey Results"
+  description="Results for employees over the age of 40"
+  source="Employee satisfaction survey, March 2017">}}
