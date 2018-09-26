@@ -9,3 +9,8 @@ bannerText: >
   miles and containing a population of more than 145,000 people in east-central
   Illinois.
 ---
+
+## My Favorite Things
+* One
+* Two
+* Three
